@@ -2,7 +2,7 @@ baseURL = "https://sathiyam-v.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Sathiya Sundaram"
 [[menu.main]]
 URL = "about"
 name = "About"
