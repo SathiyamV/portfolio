@@ -38,16 +38,8 @@ I love to eat, play video games and travel whenever I can.
 
 **Back-end Development :** Python-Django, MySQL,MongoDB,Fast API
 
+**Cloud Technologies :** Google Cloud Platform, Fire Base, AWS
+
 **General Tech** : Git, Docker, DataBricks
-
-#### MY CAPABILITY:
-
-Confidence builder and public speaker.
-
-    If you have a project I can help with ,please get in touch. If you’d like to learn more about how my skills and ideas can help your organizations, please reach out via LinkedIn or my website.
-
-I look forward to connecting with you !
-
-Have questions or suggestions? Feel free to [**open an issue on GitHub**](https://github.com/praveenpkg8) or [**ask me on Twitter**](https://twitter.com/praveenpkg8)**.**
 
 Thanks for reading!
