@@ -1,13 +1,53 @@
 ---
-title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: About
+date: 2019-05-12T06:14:34+00:00
+description: This is meta description.
+author_image: images/about/author.jpg
+author_signature: ''
+
 ---
+Hello, Pal! I’m Praveen and you have just landed on my site!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I have made some open source projects including:
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+* \[Gmail API Python Script\] 
+* [Story Board Webapp](https://github.com/praveenpkg8/webapp_storyboard)
+* [Story Board Services](https://github.com/praveenpkg8/full_service)
+* [ToDo List](https://github.com/praveenpkg8/todolist)
+* [Crayon-webapp](https://github.com/praveenpkg8/crayon-webapp)
+* [Crayon-Services](https://github.com/praveenpkg8/crayond_backend)
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Learn more and contribute on [GitHub](https://github.com/praveenpkg8).
+
+## ON TERMS
+
+I am MR. SATHIYA SUNDARAM V, Full Stack Developer. Pursuing my Bsc. Computer Science in Sri Krishna Adhitiya College of Arts and Science, Coimbatore. 
+
+I am an ambitious individual who is looking to broaden my career path. However, I am open with new challenges and am willing to work hard to reach my goals. I enjoy contributing new ideas, I am self motivated and an excellent team player, this is one of my technical key strength.I work well under pressure and understand the importance of time management.
+
+A serendipitous event inspired me to get into coding, and i love it! There is nothing greater than finding solution for the problem statement.
+
+I am always striving to bring 100% to the work that I do. I’m the calm one. Proficiency in developing web applications. Excellent communications, interpersonal and project management skills. Excellent understanding of programming languages. I run towards goals.  
+I love to eat, play video games and travel whenever I can.
+
+#### LEARNING TECH:
+
+**Developmental Languages :** Python, JavaScript, TypeScript, Java, C, C++, GO
+
+**Front-end development :** React, Angular, Web-pack, Bootstrap, HTML, CSS
+
+**Back-end Development :** Python-Django, MySQL,MongoDB,Fast API
+
+**General Tech** : Git, Docker, DataBricks
+
+#### MY CAPABILITY:
+
+Confidence builder and public speaker.
+
+    If you have a project I can help with ,please get in touch. If you’d like to learn more about how my skills and ideas can help your organizations, please reach out via LinkedIn or my website.
+
+I look forward to connecting with you !
+
+Have questions or suggestions? Feel free to [**open an issue on GitHub**](https://github.com/praveenpkg8) or [**ask me on Twitter**](https://twitter.com/praveenpkg8)**.**
+
+Thanks for reading!
