@@ -1,7 +1,7 @@
 baseURL = "https://sathiyam-v.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = "Sathiyam"
 title = "Sathiya Sundaram"
 [[menu.main]]
 URL = "about"
@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "6/1036 -7 Hanuman nagar,Virudhunagar,Tamilnadu,India"
 author = "Sathiya Sundaram"
 copyright = "Copyrighht @sathiyam"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "sathiyamsharmila@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "+91 9360408624"
 theme_color = "#41228e"
 [params.contact]
 enable = true
