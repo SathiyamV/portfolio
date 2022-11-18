@@ -3,7 +3,7 @@ title: About
 date: 2019-05-12T06:14:34+00:00
 description: This is meta description.
 author_image: images/about/author.jpg
-author_signature: ''
+author_signature: " images/about/author.jpg"
 
 ---
 Hello, Pal! I’m Praveen and you have just landed on my site!
